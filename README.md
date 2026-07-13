@@ -43,12 +43,6 @@
 
 ## 📌 Notes
 
-- This profile is a work in progress, just like the code in it
-- Feel free to poke around my repos — everything here is part of the learning process
+- This profile is a work in progress (duh)
 
 <div align="center">
-
----
-*Building one commit at a time.* ✨
-
-</div>
