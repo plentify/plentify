@@ -6,14 +6,14 @@
 
 <br>
 
-## 🌱 About Me
+##  About Me
 
-- 🔭 Just getting started with code — building small projects and learning as I go
-- 🌱 Currently exploring **Python**, **JavaScript**, and **Git/GitHub**
-- 💡 Big fan of learning in public — messy commits and all
-- ⚡ This profile grows as I do
+- Beginner Coder
+- Currently learning **Python**, **JavaScript**, and **Git/GitHub**
+- Im kinda dumb, so uh, yeah
+- Friends: None
 
-## 🛠️ Tech I'm Learning
+##  Tech I'm Learning
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Plentify&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -35,13 +35,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plentify&theme=tokyonight&hide_border=true" />
 </div>
 
-## 🔥 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Plentify&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 📌 Notes
+##  Notes
 
 - This profile is a work in progress (duh)
 
