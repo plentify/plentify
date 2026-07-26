@@ -11,7 +11,7 @@
 - Beginner Coder
 - Currently learning **Python**, **JavaScript**, and **Git/GitHub**
 - Im kinda dumb, so uh, yeah
-- Friends: None
+- Friends: RVEPRTY
 
 ##  Tech I'm Learning
 
