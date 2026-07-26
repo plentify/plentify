@@ -7,13 +7,11 @@
 <br>
 
 ##  About Me
-
-- Beginner Coder
-- Currently learning **Python**, **JavaScript**, and **Git/GitHub**
 - Im kinda dumb, so uh, yeah
 - Friends: RVEPRTY
+- Owner of Cratered Labs
 
-##  Tech I'm Learning
+##  Stuff I Know
 
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
