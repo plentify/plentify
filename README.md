@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A9BFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Plentify+%F0%9F%91%8B;Learning+to+code%2C+one+commit+at+a+time;Welcome+to+my+corner+of+GitHub" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=700&pause=1000&color=F716E9&width=435&lines=I'm+Plentify;Owner+of+Cratered+Labs;Your+Favorite+Femboy+Dev+%3A3)](https://git.io/typing-svg)[](url)
 
 </div>
 
