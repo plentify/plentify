@@ -8,8 +8,9 @@
 
 ##  About Me
 - Im kinda dumb, so uh, yeah
-- Friends: RVEPRTY
+- K-12 Developer (aka i make random stuff that involves k-12 and school shtuff)
 - Owner of Cratered Labs
+- Blog, Coming Soon
 
 ##  Stuff I Know
 
@@ -42,5 +43,9 @@
 ##  Notes
 
 - This profile is a work in progress (duh)
+- Im still in school so here is my schedule
+  Monday-Friday: 3:30 PM - 9:00 PM
+  Weekends: 9:00 AM - 10 PM
+- Inquiries for Cratered Labs Stuff can go to crateredlabs@gmail.com and for anything i own, dm me on discord @plentify_
 
 <div align="center">
