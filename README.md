@@ -8,7 +8,6 @@
 
 ##  About Me
 - Im kinda dumb, so uh, yeah
-- K-12 Developer (aka i make random stuff that involves k-12 and school shtuff)
 - Owner of Cratered Labs
 - Blog, Coming Soon
 
