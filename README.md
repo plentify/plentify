@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img width="1104" height="248" alt="image" src="https://github.com/user-attachments/assets/2c8107de-91bd-4a92-a6a2-f469770c3ef7" />
+
 </div>
 
 ##  GitHub Stats
