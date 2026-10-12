@@ -45,9 +45,6 @@
 ##  Notes
 
 - This profile is a work in progress (duh)
-- Im still in school so here is my schedule
-  Monday-Friday: 3:30 PM - 9:00 PM
-  Weekends: 9:00 AM - 10 PM
-- Inquiries for Cratered Labs Stuff can go to crateredlabs@gmail.com and for anything i own, dm me on discord @plentify_
+- Im not always available, dm me when you can (@plentify_)
 
 <div align="center">
