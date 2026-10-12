@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&weight=700&pause=1000&color=F716E9&width=435&lines=I'm+Plentify;Owner+of+Cratered+Labs;Your+Favorite+Femboy+Dev+%3A3)](https://git.io/typing-svg)[](url)
+<img width="732" height="259" alt="bundle_a_banner" src="https://github.com/user-attachments/assets/178c9437-a2a6-4240-9e98-fa01d9f0cd0d" />
+
 
 </div>
 
