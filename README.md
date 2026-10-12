@@ -8,8 +8,8 @@
 <br>
 
 ##  About Me
-- Im kinda dumb, so uh, yeah
-- Owner of Cratered Labs
+- Fullstack Developer
+- Working on LunaLunarian and LunarianJS
 - Blog, Coming Soon
 
 ##  Stuff I Know
