@@ -36,15 +36,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plentify&theme=tokyonight&hide_border=true" />
 </div>
 
-##  Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Plentify&theme=tokyo-night&hide_border=true" />
-</div>
-
 ##  Notes
 
 - This profile is a work in progress (duh)
-- Im not always available, dm me when you can (@plentify_)
+- Im not always available, dm me when you can (@plentify_). If im limited or not responding, message request me on tiktok since i dont have any other socials lol.
 
 <div align="center">
