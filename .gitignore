@@ -1,4 +1,0 @@
-*.pem
-!public.pem
-__pycache__/
-publish.py
